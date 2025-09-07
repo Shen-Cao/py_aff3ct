@@ -4,3 +4,5 @@
 [submodule "lib/aff3ct"]
 	path = lib/aff3ct
 	url = git@github.com:Shen-Cao/aff3ct.git
+[submodule "./lib/aff3ct"]
+	branch = legacy-cascl-version
